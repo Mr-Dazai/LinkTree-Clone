@@ -49,6 +49,8 @@ Add the the Firebase details under .env
 
 ### Install Firebase
 
+To install
+
 ```sh
  npm install --save firebase
 ```
