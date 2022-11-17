@@ -1,25 +1,27 @@
 # LinkTree-Clone
 
+# :star2: About the project
+
 User will be able to make an personal LinkTree website
 
-# Objectives
+# :dart: Objectives
 
 Learning Javascript(React), Firebase API
 
-## Getting Started
+## :toolbox: Getting Started
 
 These instructions will give you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
 for notes on deploying the project on a live system.
 
-### Prerequisites
+### :bangbang: Prerequisites
 
 Requirements for the software and other tools to build, test and push
 
 - [Nodejs](https://nodejs.org/en/download/)
 - [Firebase Account](https://firebase.google.com/)
 
-### Installing
+### :gear: Installing
 
 A step by step series of examples that tell you how to get a development
 environment running
@@ -56,10 +58,10 @@ To install
  npm install --save firebase
 ```
 
-## Future updates
+## :compass: Roadmap
 
--Improved CSS
--Faster Deplyment
+- [ ] Improve CSS
+- [ ] Faster Deplyment
 
 ## License
 
