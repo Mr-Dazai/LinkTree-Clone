@@ -4,7 +4,7 @@ User will be able to make an personal LinkTree website
 
 # Objectives
 
-Learning Javascript(React), Firebase
+Learning Javascript(React), Firebase API
 
 ## Getting Started
 
@@ -16,8 +16,15 @@ for notes on deploying the project on a live system.
 
 Requirements for the software and other tools to build, test and push
 
-- [Nodejs](https://www.example.com)
-- [Firebase Account](https://www.example.com)
+- [Nodejs](https://nodejs.org/en/download/)
+- [Firebase Account](https://firebase.google.com/)
+  To check
+
+```sh
+  node --version
+
+  firebase -version
+```
 
 ### Installing
 
