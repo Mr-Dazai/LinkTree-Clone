@@ -24,8 +24,9 @@ Requirements for the software and other tools to build, test and push
 A step by step series of examples that tell you how to get a development
 environment running
 
-- Need to Install Nodejs in your console
-  Click here to [Download](https://nodejs.org/en/download/)
+#### Need to Install Nodejs in your console
+
+Click here to [Download](https://nodejs.org/en/download/)
 
 To test that you have Node.js and npm correctly installed on your machine, you can type
 
