@@ -66,8 +66,8 @@ To install
 
 ## :warning: License
 
-This project is licensed under the [MIT License](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+This project is licensed under the [MIT License](https://github.com/Mr-Dazai/LinkTree-Clone/blob/main/LICENSE)
+Creative Commons License - see the [LICENSE.md](https://github.com/Mr-Dazai/LinkTree-Clone/blob/main/LICENSE) file for
 details
 
 ## :handshake: Contact
