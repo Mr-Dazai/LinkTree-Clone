@@ -31,23 +31,23 @@ Click here to [Download](https://nodejs.org/en/download/)
 To test that you have Node.js and npm correctly installed on your machine, you can type
 
 ```sh
-  node --version
+node --version
 ```
 
-After creating Firebase account
+###After creating Firebase account
 Add the the Firebase details under .env
 
 ```sh
  # .env
-  REACT_APP_FIREBASE_API_KEY= (Firebase API KEY)
-  REACT_APP_FIREBASE_AUTH_DOMAIN= (Authorized domain)
-  REACT_APP_FIREBASE_DATABASE_URL= (Firestore database URL)
-  REACT_APP_FIREBASE_PROJECT_ID= (Project ID Firebase)
-  REACT_APP_FIREBASE_SENDER_ID=(Sender ID)
-  REACT_APP_FIREBASE_APP_ID=( App ID)
+    REACT_APP_FIREBASE_API_KEY= (Firebase API KEY)
+    REACT_APP_FIREBASE_AUTH_DOMAIN= (Authorized domain)
+    REACT_APP_FIREBASE_DATABASE_URL= (Firestore database URL)
+    REACT_APP_FIREBASE_PROJECT_ID= (Project ID Firebase)
+    REACT_APP_FIREBASE_SENDER_ID=(Sender ID)
+    REACT_APP_FIREBASE_APP_ID=( App ID)
 ```
 
-Install Firebase
+### Install Firebase
 
 ```sh
  npm install --save firebase
