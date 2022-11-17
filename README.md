@@ -24,23 +24,23 @@ Requirements for the software and other tools to build, test and push
 A step by step series of examples that tell you how to get a development
 environment running
 
-Add the the Firebase details under linkr/.env
+Add the the Firebase details under .env
 
 ```shell
- # .env.template
-  REACT_APP_FIREBASE_API_KEY=
-  REACT_APP_FIREBASE_AUTH_DOMAIN=
-  REACT_APP_FIREBASE_DATABASE_URL=
-  REACT_APP_FIREBASE_PROJECT_ID=
-  REACT_APP_FIREBASE_SENDER_ID=
-  REACT_APP_FIREBASE_APP_ID=
+ # .env
+  REACT_APP_FIREBASE_API_KEY= (Firebase API KEY)
+  REACT_APP_FIREBASE_AUTH_DOMAIN= (Authorized domain)
+  REACT_APP_FIREBASE_DATABASE_URL= (Firestore database URL)
+  REACT_APP_FIREBASE_PROJECT_ID= (Project ID in Firebase)
+  REACT_APP_FIREBASE_SENDER_ID=(Sender ID)
+  REACT_APP_FIREBASE_APP_ID=( App ID)
 ```
 
-    Give the example
+Install Firebase
 
-And repeat
-
-    until finished
+```sh
+ npm install --save firebase
+```
 
 End with an example of getting some data out of the system or using it
 for a little demo
