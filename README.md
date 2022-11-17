@@ -6,7 +6,8 @@ User will be able to make an personal LinkTree website
 
 # :dart: Objectives
 
-Learning Javascript(React), Firebase API
+- Learning Javascript(React)
+- Firebase API
 
 ## :toolbox: Getting Started
 
@@ -50,7 +51,7 @@ Add the the Firebase details under .env
     REACT_APP_FIREBASE_APP_ID=( App ID)
 ```
 
-### Install Firebase
+#### Install Firebase
 
 To install
 
@@ -63,12 +64,16 @@ To install
 - [ ] Improve CSS
 - [ ] Faster Deplyment
 
-## License
+## :warning: License
 
 This project is licensed under the [MIT License](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
 details
 
-## Acknowledgments
+## :handshake: Contact
+
+Sebin Joe Paul - [Linkedin](https://www.linkedin.com/in/sebin-joe-paul/)
+
+## :gem: Acknowledgments
 
 - Zack Wilson
