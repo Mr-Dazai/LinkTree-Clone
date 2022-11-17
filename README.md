@@ -34,7 +34,8 @@ To test that you have Node.js and npm correctly installed on your machine, you c
 node --version
 ```
 
-###After creating Firebase account
+### After creating Firebase account
+
 Add the the Firebase details under .env
 
 ```sh
